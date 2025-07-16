@@ -64,7 +64,7 @@ These datasets are sufficient for reproducing all figures and results in the not
 
 ## ⚠️ Notes on Data Extraction Cells
 
-To avoid unintended large-scale processing, the notebook’s three code cells responsible for **generating datasets from raw feature directories** have been converted into **markdown cells**.
+To avoid unintended large-scale processing, the notebook’s two code cells responsible for **generating datasets from raw feature directories** have been converted into **markdown cells**.
 
 If you wish to regenerate the datasets from scratch, you can:
 
